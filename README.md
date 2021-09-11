@@ -6,6 +6,7 @@
 
 Для запуска выполните ./setup.sh, должен быть установлен Docker https://www.docker.com/products/docker-desktop и VirtualBox https://www.virtualbox.org/wiki/Downloads
 
+****
 
 This project is intended to introduce me to system administration.
 Introducing Kubernetes. Cluster management and deployment using Kubernetes. Network virtualization and "clustering". 
